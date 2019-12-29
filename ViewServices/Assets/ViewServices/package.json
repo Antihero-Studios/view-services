@@ -1,0 +1,9 @@
+{
+  "name": "com.antihero-studios.view-services",
+  "displayName": "ViewServices",
+  "author": "Antihero Studios",
+  "homepage": "https://github.com/antihero-studios/view-services",
+  "license": "MIT",
+  "version": "2.0.2",
+  "unity": "2019.3"
+}
